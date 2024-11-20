@@ -1,0 +1,21 @@
+{
+  "name": "ext-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "mhb8436",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.4",
+    "socket.io": "^4.8.1"
+  }
+}
